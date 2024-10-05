@@ -1,19 +1,5 @@
+Greetings! I'm a Brazilian Software Engineer with a background in electrical engineering and over 7 years of experience in the tech industry, primarily working in tech startups. I specialize in backend development, applying engineering principles to design and build scalable and efficient systems.
 
-Greetings! I'm a brazilian software developer with background on electrical engineering. I have over 4
-years of experience in the tech industry, and most of my experiences were in tech startups.
-I am mostly a backend developer, and working on my mastery on it. Although i don't discard moving into
-fullstack territory, it's not on my plans for the near future.
+As a pragmatic engineer, I take an artisan's approach to my work, striving to do things the right way whenever possible. I fully embrace the Zen of Python's principle: "Beautiful is better than ugly." and, as Leonardo da Vinci once said, "Simplicity is the ultimate sophistication." For me, creating elegant and efficient solutions is not just about functionality—it's about crafting software that stands the test of time
 
-
-Despite being a pragmatic developer, i take an artisan's approach in my work and like to make
-things the right way whenever i can. After all, i completely agree with the Zen of Python in
-"Beautiful is better than ugly". There's an art embedded in software development, and
-the pursuit of the elegant solution is a very motivating thought process.
-
-Some of my hobbies are:
-- Playing Runescape
-- Playing Sudoku
-- Rocking the acoustic guitar 🎸
-- Taking care of my cats 🐈
-- Hiking
-- Happy Hours 🍻
+In my free time, you'll find me playing Runescape, solving Sudoku puzzles, strumming the acoustic guitar, caring for my cats, or running along Copacabana Beach.
